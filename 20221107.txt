@@ -1,0 +1,10 @@
+git报错：
+
+Connection reset by 140.82.112.4 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+原因：网络异常，并非SSH配置；
+解决方案: 多次尝试push
